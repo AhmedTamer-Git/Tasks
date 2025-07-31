@@ -1,0 +1,15 @@
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\bin\Debug\net5.0\D3TaskC#.exe
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\bin\Debug\net5.0\D3TaskC#.deps.json
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\bin\Debug\net5.0\D3TaskC#.runtimeconfig.json
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\bin\Debug\net5.0\D3TaskC#.runtimeconfig.dev.json
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\bin\Debug\net5.0\D3TaskC#.dll
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\bin\Debug\net5.0\D3TaskC#.pdb
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\obj\Debug\net5.0\D3TaskC#.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\obj\Debug\net5.0\D3TaskC#.AssemblyInfoInputs.cache
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\obj\Debug\net5.0\D3TaskC#.AssemblyInfo.cs
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\obj\Debug\net5.0\D3TaskC#.csproj.CoreCompileInputs.cache
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\obj\Debug\net5.0\D3TaskC#.dll
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\obj\Debug\net5.0\refint\D3TaskC#.dll
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\obj\Debug\net5.0\D3TaskC#.pdb
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\obj\Debug\net5.0\D3TaskC#.genruntimeconfig.cache
+E:\DEPI\C#\D3\D3TaskC#Solution\D3TaskC#\obj\Debug\net5.0\ref\D3TaskC#.dll
