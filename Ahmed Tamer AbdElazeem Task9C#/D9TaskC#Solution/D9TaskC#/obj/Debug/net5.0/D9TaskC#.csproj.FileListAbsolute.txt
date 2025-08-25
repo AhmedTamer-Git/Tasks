@@ -1,0 +1,15 @@
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\bin\Debug\net5.0\D9TaskC#.exe
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\bin\Debug\net5.0\D9TaskC#.deps.json
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\bin\Debug\net5.0\D9TaskC#.runtimeconfig.json
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\bin\Debug\net5.0\D9TaskC#.runtimeconfig.dev.json
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\bin\Debug\net5.0\D9TaskC#.dll
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\bin\Debug\net5.0\D9TaskC#.pdb
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\obj\Debug\net5.0\D9TaskC#.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\obj\Debug\net5.0\D9TaskC#.AssemblyInfoInputs.cache
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\obj\Debug\net5.0\D9TaskC#.AssemblyInfo.cs
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\obj\Debug\net5.0\D9TaskC#.csproj.CoreCompileInputs.cache
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\obj\Debug\net5.0\D9TaskC#.dll
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\obj\Debug\net5.0\refint\D9TaskC#.dll
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\obj\Debug\net5.0\D9TaskC#.pdb
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\obj\Debug\net5.0\D9TaskC#.genruntimeconfig.cache
+E:\DEPI\C#\D9\D9TaskC#Solution\D9TaskC#\obj\Debug\net5.0\ref\D9TaskC#.dll
