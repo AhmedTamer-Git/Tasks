@@ -1,0 +1,15 @@
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\bin\Debug\net5.0\D2 Task Linq.exe
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\bin\Debug\net5.0\D2 Task Linq.deps.json
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\bin\Debug\net5.0\D2 Task Linq.runtimeconfig.json
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\bin\Debug\net5.0\D2 Task Linq.runtimeconfig.dev.json
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\bin\Debug\net5.0\D2 Task Linq.dll
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\bin\Debug\net5.0\D2 Task Linq.pdb
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\obj\Debug\net5.0\D2 Task Linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\obj\Debug\net5.0\D2 Task Linq.AssemblyInfoInputs.cache
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\obj\Debug\net5.0\D2 Task Linq.AssemblyInfo.cs
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\obj\Debug\net5.0\D2 Task Linq.csproj.CoreCompileInputs.cache
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\obj\Debug\net5.0\D2 Task Linq.dll
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\obj\Debug\net5.0\refint\D2 Task Linq.dll
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\obj\Debug\net5.0\D2 Task Linq.pdb
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\obj\Debug\net5.0\D2 Task Linq.genruntimeconfig.cache
+E:\DEPI\Linq\D2\D2 Task Linq Solution\D2 Task Linq\obj\Debug\net5.0\ref\D2 Task Linq.dll
