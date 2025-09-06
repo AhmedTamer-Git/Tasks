@@ -1,0 +1,65 @@
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\D3 Task Linq&EF.exe
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\D3 Task Linq&EF.deps.json
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\D3 Task Linq&EF.runtimeconfig.json
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\D3 Task Linq&EF.runtimeconfig.dev.json
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\D3 Task Linq&EF.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\D3 Task Linq&EF.pdb
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Humanizer.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\System.Security.Permissions.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\System.Windows.Extensions.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\obj\Debug\net5.0\D3 Task Linq&EF.csproj.AssemblyReference.cache
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\obj\Debug\net5.0\D3 Task Linq&EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\obj\Debug\net5.0\D3 Task Linq&EF.AssemblyInfoInputs.cache
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\obj\Debug\net5.0\D3 Task Linq&EF.AssemblyInfo.cs
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\obj\Debug\net5.0\D3 Task Linq&EF.csproj.CoreCompileInputs.cache
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\obj\Debug\net5.0\D3 Task .1569FF66.Up2Date
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\obj\Debug\net5.0\D3 Task Linq&EF.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\obj\Debug\net5.0\refint\D3 Task Linq&EF.dll
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\obj\Debug\net5.0\D3 Task Linq&EF.pdb
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\obj\Debug\net5.0\D3 Task Linq&EF.genruntimeconfig.cache
+E:\DEPI\Linq\D3\D3 Task Linq&EF Solution\D3 Task Linq&EF\obj\Debug\net5.0\ref\D3 Task Linq&EF.dll
