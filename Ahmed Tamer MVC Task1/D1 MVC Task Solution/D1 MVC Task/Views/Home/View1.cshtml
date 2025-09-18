@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Greeting Demo";
+    string? userName = null;
+
+    if (Context.Request.Method == "POST")
+    {
+        userName = Context.Request.Form["userName"];
+    }
+}
+
+<div style="max-width:400px; margin:50px auto; padding:20px; border-radius:12px;
+            box-shadow:0 4px 10px rgba(0,0,0,0.15); font-family:Arial; text-align:center;">
+
+    <h2 style="color:#2c3e50; margin-bottom:20px;">Hi I'm Sharqawy!</h2>
+
+    <form method="post" style="margin-bottom:15px;">
+        <label style="display:block; margin-bottom:8px; font-weight:bold;">
+            What is your name?
+        </label>
+        <input type="text" name="userName" required
+               style="padding:10px; width:100%; border:1px solid #ccc; border-radius:8px; margin-bottom:10px;" />
+        <button type="submit"
+                style="padding:10px 20px; background:#3498db; color:white; border:none; border-radius:8px; cursor:pointer;">
+            Submit
+        </button>
+    </form>
+
+    @if (!string.IsNullOrEmpty(userName))
+    {
+        <h3 style="color:#27ae60;">Hi @userName 👋</h3>
+    }
+</div>

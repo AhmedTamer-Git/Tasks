@@ -1,0 +1,33 @@
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\bin\Debug\net8.0\appsettings.Development.json
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\bin\Debug\net8.0\appsettings.json
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\bin\Debug\net8.0\D1 MVC Task.staticwebassets.runtime.json
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\bin\Debug\net8.0\D1 MVC Task.staticwebassets.endpoints.json
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\bin\Debug\net8.0\D1 MVC Task.exe
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\bin\Debug\net8.0\D1 MVC Task.deps.json
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\bin\Debug\net8.0\D1 MVC Task.runtimeconfig.json
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\bin\Debug\net8.0\D1 MVC Task.dll
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\bin\Debug\net8.0\D1 MVC Task.pdb
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\D1 MVC Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\D1 MVC Task.AssemblyInfoInputs.cache
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\D1 MVC Task.AssemblyInfo.cs
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\D1 MVC Task.csproj.CoreCompileInputs.cache
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\D1 MVC Task.MvcApplicationPartsAssemblyInfo.cache
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\D1 MVC Task.RazorAssemblyInfo.cache
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\D1 MVC Task.RazorAssemblyInfo.cs
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\scopedcss\bundle\D1 MVC Task.styles.css
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\scopedcss\projectbundle\D1 MVC Task.bundle.scp.css
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\staticwebassets.build.json
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\staticwebassets.development.json
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\D1 MVC Task.dll
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\refint\D1 MVC Task.dll
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\D1 MVC Task.pdb
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\D1 MVC Task.genruntimeconfig.cache
+E:\DEPI\MVC\D1\D1 MVC Task Solution\D1 MVC Task\obj\Debug\net8.0\ref\D1 MVC Task.dll
