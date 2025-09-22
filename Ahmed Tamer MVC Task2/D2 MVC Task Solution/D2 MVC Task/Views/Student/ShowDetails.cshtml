@@ -1,0 +1,12 @@
+﻿@model D2_MVC_Task.Models.Student
+
+<h2>Student Details</h2>
+
+<div class="card p-3">
+    <p><strong>ID:</strong> @Model.Id</p>
+    <p><strong>Name:</strong> @Model.Name</p>
+    <p><strong>Age:</strong> @Model.Age</p>
+    <p><strong>Department:</strong> @Model.Department?.Name</p>
+</div>
+
+<a href="/Student/ShowAll" class="btn btn-secondary mt-3">Back to List</a>

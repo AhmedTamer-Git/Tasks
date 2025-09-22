@@ -1,0 +1,146 @@
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\appsettings.Development.json
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\appsettings.json
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\D2 MVC Task.staticwebassets.runtime.json
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\D2 MVC Task.staticwebassets.endpoints.json
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\D2 MVC Task.exe
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\D2 MVC Task.deps.json
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\D2 MVC Task.runtimeconfig.json
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\D2 MVC Task.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\D2 MVC Task.pdb
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Azure.Core.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Azure.Identity.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Humanizer.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.ClientModel.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.CodeDom.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.Memory.Data.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\D2 MVC Task.csproj.AssemblyReference.cache
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\D2 MVC Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\D2 MVC Task.AssemblyInfoInputs.cache
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\D2 MVC Task.AssemblyInfo.cs
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\D2 MVC Task.csproj.CoreCompileInputs.cache
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\D2 MVC Task.MvcApplicationPartsAssemblyInfo.cache
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\D2 MVC Task.RazorAssemblyInfo.cache
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\D2 MVC Task.RazorAssemblyInfo.cs
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\scopedcss\bundle\D2 MVC Task.styles.css
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\scopedcss\projectbundle\D2 MVC Task.bundle.scp.css
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\staticwebassets.build.json
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\staticwebassets.development.json
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\D2 MVC T.D28B3A25.Up2Date
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\D2 MVC Task.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\refint\D2 MVC Task.dll
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\D2 MVC Task.pdb
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\D2 MVC Task.genruntimeconfig.cache
+E:\DEPI\MVC\D2\D2 MVC Task Solution\D2 MVC Task\obj\Debug\net8.0\ref\D2 MVC Task.dll
