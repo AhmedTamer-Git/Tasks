@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d3\\d3 mvc task solution\\d2 mvc task\\viewmodels\\departmentdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\viewmodels\\departmentdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d3\\d3 mvc task solution\\d2 mvc task\\views\\department\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\views\\department\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d3\\d3 mvc task solution\\d2 mvc task\\models\\departmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\models\\departmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d3\\d3 mvc task solution\\d2 mvc task\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d3\\d3 mvc task solution\\d2 mvc task\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d3\\d3 mvc task solution\\d2 mvc task\\views\\department\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\views\\department\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d3\\d3 mvc task solution\\d2 mvc task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d3\\d3 mvc task solution\\d2 mvc task\\data\\configuration classes\\courseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\data\\configuration classes\\courseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Views\\Department\\Add.cshtml",
+              "RelativeDocumentMoniker": "D2 MVC Task\\Views\\Department\\Add.cshtml",
+              "ToolTip": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Views\\Department\\Add.cshtml",
+              "RelativeToolTip": "D2 MVC Task\\Views\\Department\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T23:58:46.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowAll.cshtml",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Views\\Department\\ShowAll.cshtml",
+              "RelativeDocumentMoniker": "D2 MVC Task\\Views\\Department\\ShowAll.cshtml",
+              "ToolTip": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Views\\Department\\ShowAll.cshtml",
+              "RelativeToolTip": "D2 MVC Task\\Views\\Department\\ShowAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T23:31:28.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentBL.cs",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Models\\DepartmentBL.cs",
+              "RelativeDocumentMoniker": "D2 MVC Task\\Models\\DepartmentBL.cs",
+              "ToolTip": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Models\\DepartmentBL.cs",
+              "RelativeToolTip": "D2 MVC Task\\Models\\DepartmentBL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:20:44.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "D2 MVC Task\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "D2 MVC Task\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAvwDoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:54:30.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowDetails.cshtml",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Views\\Department\\ShowDetails.cshtml",
+              "RelativeDocumentMoniker": "D2 MVC Task\\Views\\Department\\ShowDetails.cshtml",
+              "ToolTip": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Views\\Department\\ShowDetails.cshtml",
+              "RelativeToolTip": "D2 MVC Task\\Views\\Department\\ShowDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T23:55:59.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentDetailsVM.cs",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\ViewModels\\DepartmentDetailsVM.cs",
+              "RelativeDocumentMoniker": "D2 MVC Task\\ViewModels\\DepartmentDetailsVM.cs",
+              "ToolTip": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\ViewModels\\DepartmentDetailsVM.cs",
+              "RelativeToolTip": "D2 MVC Task\\ViewModels\\DepartmentDetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:51:42.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseConfig.cs",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Data\\Configuration Classes\\CourseConfig.cs",
+              "RelativeDocumentMoniker": "D2 MVC Task\\Data\\Configuration Classes\\CourseConfig.cs",
+              "ToolTip": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Data\\Configuration Classes\\CourseConfig.cs",
+              "RelativeToolTip": "D2 MVC Task\\Data\\Configuration Classes\\CourseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:45:06.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Program.cs",
+              "RelativeDocumentMoniker": "D2 MVC Task\\Program.cs",
+              "ToolTip": "E:\\DEPI\\MVC\\D3\\D3 MVC Task Solution\\D2 MVC Task\\Program.cs",
+              "RelativeToolTip": "D2 MVC Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:36:47.719Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿@model Department
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h2>Add New Department</h2>
+
+<form method="post" action="/Department/SaveAdd">
+    <div class="form-group">
+        <label for="Name">Department Name</label>
+        <input type="text" name="Name" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="MgrName">Manager Name</label>
+        <input type="text" name="MgrName" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success mt-2">Save</button>
+</form>
+
+<a href="/Department/ShowAll" class="btn btn-secondary mt-2">Cancel</a>

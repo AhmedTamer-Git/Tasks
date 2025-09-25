@@ -1,0 +1,29 @@
+﻿@model Department
+
+@{
+    ViewData["Title"] = "ShowDetails";
+}
+
+
+<h2>Department Details</h2>
+
+<p><strong>Id:</strong> @Model.Id</p>
+<p><strong>Name:</strong> @Model.Name</p>
+<p><strong>Manager:</strong> @Model.MgrName</p>
+
+<h3>Students in Department</h3>
+@if (Model.Students != null && Model.Students.Any())
+{
+    <ul>
+        @foreach (var student in Model.Students)
+        {
+            <li>@student.Name (@student.Age years)</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No students in this department.</p>
+}
+
+<a href="/Department/ShowAll" class="btn btn-secondary">Back to List</a>

@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Department>
+@{
+    ViewData["Title"] = "ShowAll";
+}
+
+<h2>All Departments</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Department Name</th>
+            <th>Manager</th>
+            <th>Students Count</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dept in Model)
+        {
+            <tr>
+                <td>@dept.Id</td>
+                <td>@dept.Name</td>
+                <td>@dept.MgrName</td>
+                <td>@(dept.Students?.Count() ?? 0)</td>
+                <td>
+                    <a class="btn btn-info btn-sm" href="/Department/ShowDetails/@dept.Id">Details</a>
+                    <a class="btn btn-secondary btn-sm" href="/Department/Summary/@dept.Id">Summary</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-success" href="/Department/Add">Add New Department</a>
