@@ -1,0 +1,41 @@
+﻿@model List<D2_MVC_Task.Models.Student>
+
+<h2>All Students</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Department</th>
+            <th>Details</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>@student.Department?.Name</td>
+                <td>
+                    <a href="/Student/ShowDetails?id=@student.Id" class="btn btn-info">View</a>
+                </td>
+                <td>
+                    <a href="/Student/Edit?id=@student.Id" class="btn btn-info">Edit</a>
+                </td>
+                <td>
+                    <a href="/Student/Delete?id=@student.Id" class="btn btn-info">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/Student/Add" class="btn btn-info">Add</a>
+<a href="/Student/Search" class="btn btn-info">Search</a>
+

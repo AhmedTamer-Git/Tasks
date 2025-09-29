@@ -1,0 +1,38 @@
+﻿@model D2_MVC_Task.ViewModels.StudentAddVM
+
+<h2>Add Student</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Age"></label>
+        <input asp-for="Age" class="form-control" type="number" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Department</label>
+        <select id="DepartmentId" name="DepartmentId" class="form-control form">
+            @foreach (var item in Model.DeptList)
+            {
+                @if (item.Id == Model.DepartmentId)
+                {
+                    <option value="@item.Id" selected>@item.Name</option>
+                }
+                else
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+</form>
+
+<a asp-action="ShowAll" asp-controller="Student" class="btn btn-secondary mt-2">Cancel</a>

@@ -1,0 +1,62 @@
+﻿@model D2_MVC_Task.ViewModels.StudentListVM
+
+<h2>Students</h2>
+
+<form method="get" asp-action="Search" asp-controller="Student" class="mb-3">
+    <input type="text" name="search" value="@Model.Search" placeholder="Search by name" class="form-control d-inline w-25" />
+
+    @Html.DropDownListFor(
+        m => m.DepartmentId,
+        new SelectList(Model.Departments, "Id", "Name", Model.DepartmentId),
+        "-- All Departments --",
+        new { @class = "form-control d-inline w-25" }
+        )
+
+    <button type="submit" class="btn btn-primary">Filter</button>
+</form>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Name</th>
+            <th>Age</th>
+            <th>Department</th>
+            <th>Details</th>
+            <th></th>
+            <th></th>
+    </tr>
+    @foreach (var s in Model.Students)
+    {
+        <tr>
+            <td>@s.Name</td>
+            <td>@s.Age</td>
+            <td>@s.Department?.Name</td>
+            <td>
+                <a href="/Student/ShowDetails?id=@s.Id" class="btn btn-info">View</a>
+            </td>
+            <td>
+                <a href="/Student/Edit?id=@s.Id" class="btn btn-info">Edit</a>
+            </td>
+            <td>
+                <a href="/Student/Delete?id=@s.Id" class="btn btn-info">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+
+<a href="/Student/Add" class="btn btn-info">Add</a>
+<a href="/Student/ShowAll" class="btn btn-info">ShowAll</a>
+
+<br />
+<br />
+<!-- Pagination -->
+<nav>
+    <ul class="pagination">
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            <li class="page-item @(Model.CurrentPage == i ? "active" : "")">
+                <a class="page-link"
+                   href="?page=@i&search=@Model.Search&departmentId=@Model.DepartmentId">@i</a>
+            </li>
+        }
+    </ul>
+</nav>
