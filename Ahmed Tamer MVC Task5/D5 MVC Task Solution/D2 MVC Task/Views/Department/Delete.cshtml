@@ -1,0 +1,14 @@
+﻿@model D2_MVC_Task.Models.Department
+@{
+    Layout = "MyLayout";
+}
+
+
+<h2>Delete Confirmation</h2>
+<p>Are you sure you want to delete department <strong>@Model.Name</strong>?</p>
+
+<form asp-action="SaveDelete" asp-controller="Department" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="ShowAll" class="btn btn-secondary">Cancel</a>
+</form>

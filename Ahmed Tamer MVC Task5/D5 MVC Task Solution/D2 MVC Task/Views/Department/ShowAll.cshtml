@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Department>
+@{
+    ViewData["Title"] = "ShowAll";
+}
+@{
+    Layout = "MyLayout";
+}
+
+
+<h2>All Departments</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Department Name</th>
+            <th>Manager</th>
+            <th>Students Count</th>
+            <th>Details</th>
+            <th>Summary</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dept in Model)
+        {
+            <tr>
+                <td>@dept.Id</td>
+                <td>@dept.Name</td>
+                <td>@dept.MgrName</td>
+                <td>@(dept.Students?.Count() ?? 0)</td>
+                <td>
+                <a class="btn btn-info btn-sm" asp-controller="Department" asp-action="ShowDetails" asp-route-id="@dept.Id">Details</a>
+                </td>
+                <td>
+                <a class="btn btn-info btn-sm" asp-controller="Department" asp-action="Summary" asp-route-id="@dept.Id">Summary</a>
+                </td>
+                <td>
+                <a class="btn btn-warning btn-sm" asp-controller="Department" asp-action="Edit" asp-route-id="@dept.Id">Edit</a>
+                </td>
+                <td>
+                <a class="btn btn-danger btn-sm" asp-controller="Department" asp-action="Delete" asp-route-id="@dept.Id">Delete</a>
+                </td> 
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-success" asp-controller="Department" asp-action="Add">Add New Department</a>
