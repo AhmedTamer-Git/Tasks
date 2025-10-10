@@ -1,0 +1,47 @@
+﻿@model D2_MVC_Task.ViewModels.CourseVM
+
+@{
+    Layout = "MyLayout";
+}
+
+<h2>Edit Course</h2>
+
+<form asp-action="SaveEdit" asp-route-id="@Model.Id" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Degree"></label>
+        <input asp-for="Degree" type="number" class="form-control" />
+        <span asp-validation-for="Degree" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MinDegree"></label>
+        <input asp-for="MinDegree" type="number" class="form-control" />
+        <span asp-validation-for="MinDegree" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DepartmentId">Department</label>
+        <select asp-for="DepartmentId"
+                asp-items="@(new SelectList(Model.DeptList, "Id", "Name", Model.DepartmentId))"
+                class="form-control">
+            <option value="">-- Select Department --</option>
+        </select>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+
+<a asp-controller="Course" asp-action="ShowAll" class="btn btn-secondary mt-2">Cancel</a>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

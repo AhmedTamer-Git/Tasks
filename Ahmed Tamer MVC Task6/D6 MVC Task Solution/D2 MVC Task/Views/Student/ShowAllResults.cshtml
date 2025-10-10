@@ -1,0 +1,27 @@
+﻿@model List<D2_MVC_Task.ViewModels.StudentCourseResultVM>
+
+@{
+    Layout = "MyLayout";
+}
+
+<h2>@Model.First().StudentName - Courses Results</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Course</th>
+            <th>Degree</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CourseName</td>
+                <td style="color:@item.Color">@item.Degree</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="Student" asp-action="ShowAll" class="btn btn-secondary mt-3">Back</a>
