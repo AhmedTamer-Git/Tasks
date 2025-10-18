@@ -1,0 +1,30 @@
+﻿@model Core.Models.Department
+@{
+    Layout = "MyLayout";
+}
+
+<h2>Edit Department</h2>
+
+<form asp-action="SaveEdit" asp-controller="Department" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MgrName"></label>
+        <input asp-for="MgrName" class="form-control" />
+        <span asp-validation-for="MgrName" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+
+<a asp-action="ShowAll" class="btn btn-secondary mt-2">Cancel</a>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

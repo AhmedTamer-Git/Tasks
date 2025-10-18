@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d8\\d8 mvc task solution\\d2 mvc task\\views\\student\\showallresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\views\\student\\showallresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d8\\d8 mvc task solution\\d2 mvc task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1AEAF9-6AB4-42E7-885A-6A41A8A3C099}|Infrastructure\\Infrastructure.csproj|e:\\depi\\mvc\\d8\\d8 mvc task solution\\infrastructure\\data\\dbcontexts\\learningsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1AEAF9-6AB4-42E7-885A-6A41A8A3C099}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\dbcontexts\\learningsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1AEAF9-6AB4-42E7-885A-6A41A8A3C099}|Infrastructure\\Infrastructure.csproj|e:\\depi\\mvc\\d8\\d8 mvc task solution\\infrastructure\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1AEAF9-6AB4-42E7-885A-6A41A8A3C099}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d8\\d8 mvc task solution\\d2 mvc task\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d8\\d8 mvc task solution\\d2 mvc task\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d8\\d8 mvc task solution\\d2 mvc task\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|e:\\depi\\mvc\\d8\\d8 mvc task solution\\d2 mvc task\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C314933-71A6-4484-BDD7-340F9219A997}|D2 MVC Task\\D2 MVC Task.csproj|solutionrelative:d2 mvc task\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowAllResults.cshtml",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\D2 MVC Task\\Views\\Student\\ShowAllResults.cshtml",
+              "RelativeDocumentMoniker": "D2 MVC Task\\Views\\Student\\ShowAllResults.cshtml",
+              "ToolTip": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\D2 MVC Task\\Views\\Student\\ShowAllResults.cshtml*",
+              "RelativeToolTip": "D2 MVC Task\\Views\\Student\\ShowAllResults.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T18:55:08.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\Infrastructure\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\CourseRepository.cs",
+              "ToolTip": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\Infrastructure\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T18:51:15.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\D2 MVC Task\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "D2 MVC Task\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\D2 MVC Task\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "D2 MVC Task\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T18:44:31.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\D2 MVC Task\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "D2 MVC Task\\Controllers\\CourseController.cs",
+              "ToolTip": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\D2 MVC Task\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "D2 MVC Task\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T18:39:22.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\D2 MVC Task\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "D2 MVC Task\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\D2 MVC Task\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "D2 MVC Task\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T18:38:28.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\D2 MVC Task\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "D2 MVC Task\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\D2 MVC Task\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "D2 MVC Task\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAkwJAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T18:29:21.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LearningSystemDbContext.cs",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\Infrastructure\\Data\\DbContexts\\LearningSystemDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\DbContexts\\LearningSystemDbContext.cs",
+              "ToolTip": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\Infrastructure\\Data\\DbContexts\\LearningSystemDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\DbContexts\\LearningSystemDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:58:46.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\D2 MVC Task\\Program.cs",
+              "RelativeDocumentMoniker": "D2 MVC Task\\Program.cs",
+              "ToolTip": "E:\\DEPI\\MVC\\D8\\D8 MVC Task Solution\\D2 MVC Task\\Program.cs",
+              "RelativeToolTip": "D2 MVC Task\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:36:47.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿@model List<Core.Models.StuCrsRes>
+
+@{
+    Layout = "MyLayout";
+}
+
+<h2>@Model.First().Student.Name - Courses Results</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Course</th>
+            <th>Degree</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            var color = item.Grade >= item.Course.MinDegree ? "green" : "red";
+            <tr>
+                <td>@item.Course.Name</td>
+                <td style="color:@color">@item.Grade</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="Student" asp-action="ShowAll" class="btn btn-secondary mt-3">Back</a>
