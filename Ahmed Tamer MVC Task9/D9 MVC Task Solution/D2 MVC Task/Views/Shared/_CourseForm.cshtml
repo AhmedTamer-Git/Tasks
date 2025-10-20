@@ -1,0 +1,52 @@
+﻿@model D2_MVC_Task.ViewModels.CourseVM
+
+@{
+    var isEdit = Model.Id > 0;
+    var actionName = isEdit ? "SaveEdit" : "SaveAdd";
+    var buttonText = isEdit ? "Update" : "Save";
+    var buttonClass = isEdit ? "btn-primary" : "btn-success";
+}
+
+<form asp-action="@actionName" asp-controller="Course" method="post" asp-route-id="@(isEdit ? Model.Id : null)">
+    @Html.AntiForgeryToken()
+
+    @if (isEdit)
+    {
+        <input type="hidden" asp-for="Id" />
+    }
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Degree"></label>
+        <input asp-for="Degree" type="number" class="form-control" />
+        <span asp-validation-for="Degree" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MinDegree"></label>
+        <input asp-for="MinDegree" type="number" class="form-control" />
+        <span asp-validation-for="MinDegree" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DepartmentId">Department</label>
+        <select asp-for="DepartmentId"
+                asp-items="@(new SelectList(Model.DeptList, "Id", "Name", Model.DepartmentId))"
+                class="form-control">
+            <option value="">-- Select Department --</option>
+        </select>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn @buttonClass">@buttonText</button>
+    <a asp-controller="Course" asp-action="ShowAll" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,36 @@
+﻿@model Core.Models.Department
+
+@{
+    var isEdit = Model.Id > 0;
+    var actionName = isEdit ? "SaveEdit" : "SaveAdd";
+    var buttonText = isEdit ? "Update" : "Save";
+    var buttonClass = isEdit ? "btn-primary" : "btn-success";
+}
+
+<form asp-action="@actionName" asp-controller="Department" method="post">
+    @Html.AntiForgeryToken()
+
+    @if (isEdit)
+    {
+        <input type="hidden" asp-for="Id" />
+    }
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MgrName"></label>
+        <input asp-for="MgrName" class="form-control" />
+        <span asp-validation-for="MgrName" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn @buttonClass">@buttonText</button>
+    <a asp-action="ShowAll" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
