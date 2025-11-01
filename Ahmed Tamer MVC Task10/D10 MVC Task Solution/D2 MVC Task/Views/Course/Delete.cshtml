@@ -1,0 +1,13 @@
+﻿@model Core.Models.Course
+@{
+    Layout = "MyLayout";
+}
+
+<h2>Delete Confirmation</h2>
+<p>Are you sure you want to delete Course <strong>@Model.Name</strong>?</p>
+
+<form asp-action="ConfirmDelete" asp-controller="Course" asp-route-id="@Model.Id" method="post">
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="ShowAll" class="btn btn-secondary">Cancel</a>
+</form>

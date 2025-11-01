@@ -1,0 +1,16 @@
+﻿@model Core.Models.Course
+@{
+    Layout = "MyLayout";
+}
+
+<h2>Course Details</h2>
+
+<div class="card p-3 shadow-sm">
+    <p><strong>ID:</strong> @Model.Id</p>
+    <p><strong>Name:</strong> @Model.Name</p>
+    <p><strong>Max Degree:</strong> @Model.Degree</p>
+    <p><strong>Min Degree:</strong> @Model.MinDegree</p>
+    <p><strong>Department:</strong> @Model.Department?.Name</p>
+</div>
+
+<a asp-action="Index" class="btn btn-secondary mt-3">Back to List</a> 

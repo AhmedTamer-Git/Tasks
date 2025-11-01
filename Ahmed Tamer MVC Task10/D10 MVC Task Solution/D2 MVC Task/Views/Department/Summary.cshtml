@@ -1,0 +1,26 @@
+﻿@model DepartmentDetailsVM
+@{
+    ViewData["Title"] = "Summary";
+}
+@{
+    Layout = "MyLayout";
+}
+
+
+
+<h2>Department Summary</h2>
+
+<p><strong>Department:</strong> @Model.DepName</p>
+<p><strong>State:</strong> @Model.DepState</p>
+
+<div class="form-group">
+    <label>Students Above 25:</label>
+    <select class="form-control">
+        @foreach (var student in Model.StuAbove25)
+        {
+            <option>@student</option>
+        }
+    </select>
+</div>
+
+<a asp-controller="Department" asp-action="ShowAll" class="btn btn-secondary">Back to Departments</a>

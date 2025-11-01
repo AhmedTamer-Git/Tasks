@@ -1,0 +1,13 @@
+﻿@model Microsoft.AspNetCore.Identity.IdentityRole
+@{
+    Layout = "MyLayout";
+}
+
+<h2>Delete Role</h2>
+<p>Are you sure you want to delete role <strong>@Model.Name</strong>?</p>
+
+<form asp-action="Delete" asp-controller="Role" asp-route-id="@Model.Id" method="post">
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

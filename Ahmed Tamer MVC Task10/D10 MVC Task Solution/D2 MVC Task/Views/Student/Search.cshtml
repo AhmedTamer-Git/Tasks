@@ -1,0 +1,73 @@
+﻿@model D2_MVC_Task.ViewModels.StudentListVM
+@{
+    Layout = "MyLayout";
+}
+
+<h2>Students</h2>
+
+<form method="get" asp-action="Search" asp-controller="Student" class="mb-3">
+    <input type="text" name="search" value="@Model.Search" placeholder="Search by name" class="form-control d-inline w-25" />
+
+    <select asp-for="DepartmentId"
+            asp-items="@(new SelectList(Model.Departments, "Id", "Name", Model.DepartmentId))"
+            class="form-control d-inline w-25">
+        <option value="">-- All Departments --</option>
+    </select>
+
+    <button type="submit" class="btn btn-primary">Filter</button>
+</form>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Department</th>
+            <th>Details</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var s in Model.Students)
+        {
+            <tr>
+                <td>@s.Name</td>
+                <td>@s.Age</td>
+                <td>@s.Department?.Name</td>
+                <td>
+                    <a asp-controller="Student" asp-action="ShowDetails" asp-route-id="@s.Id" class="btn btn-info">View</a>
+                </td>
+                <td>
+                    <a asp-controller="Student" asp-action="Edit" asp-route-id="@s.Id" class="btn btn-warning">Edit</a>
+                </td>
+                <td>
+                    <a asp-controller="Student" asp-action="Delete" asp-route-id="@s.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="Student" asp-action="Add" class="btn btn-success">Add</a>
+<a asp-controller="Student" asp-action="ShowAll" class="btn btn-secondary">ShowAll</a>
+
+<br />
+<br />
+
+<!-- Pagination - Fixed -->
+<nav>
+    <ul class="pagination">
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            <li class="page-item @(Model.CurrentPage == i ? "active" : "")">
+                <a class="page-link"
+                   asp-controller="Student"
+                   asp-action="Search"
+                   asp-route-page="@i"
+                   asp-route-search="@Model.Search"
+                   asp-route-departmentId="@Model.DepartmentId">@i</a>
+            </li>
+        }
+    </ul>
+</nav>

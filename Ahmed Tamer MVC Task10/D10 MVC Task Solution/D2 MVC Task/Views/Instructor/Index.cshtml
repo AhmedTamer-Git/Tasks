@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Core.Models.Course>
+@{
+    Layout = "MyLayout";
+}
+
+<h2>Instructor - Course List</h2>
+<p class="text-muted">Only authenticated users can view this page</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Course Name</th>
+            <th>Department</th>
+            <th>Max Degree</th>
+            <th>Min Degree</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model)
+        {
+            <tr>
+                <td>@course.Id</td>
+                <td>@course.Name</td>
+                <td>@course.Department?.Name</td>
+                <td>@course.Degree</td>
+                <td>@course.MinDegree</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@course.Id" class="btn btn-info btn-sm">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
